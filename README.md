@@ -24,6 +24,9 @@ Tested different prompting strategies with powerful language models. Specificall
 The comparative evaluation highlighted the clear advantages of specialized fine-tuning—even a smaller model (flan-t5) with minimal fine-tuning significantly improved performance.
 Impressively, using the optimized simple-prompt LLM-based approach, I achieved around 90% accuracy on the test set, with zero domain-specific training required. These results strongly validate the shift towards general-purpose NLU through LLMs.
 
+## Running the Notebook
+You'll need to create a .env file in the root dir and add Huggingface and OpenAI API keys to run the notebook. Full .env file link attached in email.
+
 ## Justifying Results:
 The results are not just impressive in isolation—they represent a meaningful leap forward for Conversational AI. Traditionally, intent detection requires exhaustive pre-training for each business domain, an approach that's simply unsustainable at scale.
 
