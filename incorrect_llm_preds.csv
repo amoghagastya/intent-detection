@@ -1,0 +1,47 @@
+,sentence,label,OpenAi_Prediction,Confidence
+18,Paisa Finance is available,EMI,LEAD_GEN,6.0
+22,Paisa Finance,EMI,LEAD_GEN,6.0
+26,Do you offer COD to my pincode?,COD,CHECK_PINCODE,8.0
+54,What are the key features of the SOF Ergo mattress,ERGO_FEATURES,ORTHO_FEATURES,8.0
+55,Features of Ergo mattress,ERGO_FEATURES,ORTHO_FEATURES,8.0
+57,Ergo mattress,ERGO_FEATURES,ORTHO_FEATURES,8.0
+59,Ergo,ERGO_FEATURES,ORTHO_FEATURES,6.0
+60,Tell me about SOF Ergo mattress,ERGO_FEATURES,ABOUT_SOF_MATTRESS,9.0
+61,What about ergo,ERGO_FEATURES,ORTHO_FEATURES,8.0
+62,What is responsive foam,ERGO_FEATURES,ORTHO_FEATURES,7.0
+64,Does this have ergonomic support?,ERGO_FEATURES,ORTHO_FEATURES,8.0
+71,Which mattress to buy?,COMPARISON,WHAT_SIZE_TO_ORDER,8.0
+72,Is the mattress good for my back,COMPARISON,ORTHO_FEATURES,8.0
+93,Trial offer on customisation,100_NIGHT_TRIAL_OFFER,100_NIGHT_PLANT_TRIAL_OFFER,8.0
+94,do you provide exchange,100_NIGHT_TRIAL_OFFER,RETURN_EXCHANGE,8.0
+96,I want to check offers,100_NIGHT_TRIAL_OFFER,OFFERS,9.0
+119,6*3,WHAT_SIZE_TO_ORDER,LEAD_GEN,2.0
+122,Can I please have the size chart?,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,8.0
+123,Share the size structure,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,8.0
+125,Want to know the custom size chart,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,8.0
+130,What are the available mattress sizes,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,8.0
+131,King Size,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,6.0
+157,Will you be able to deliver here,CHECK_PINCODE,DELAY_IN_DELIVERY,8.0
+167, Where can I see the product before I buy,DISTRIBUTORS,LEAD_GEN,8.0
+168,What is the price for size (x ft x y ft)? What is the price for size (x inches x y inches)?,DISTRIBUTORS,MATTRESS_COST,9.0
+171,Where is your showroom,DISTRIBUTORS,LEAD_GEN,8.0
+173,Can I visit SOF mattress showroom,DISTRIBUTORS,LEAD_GEN,8.0
+174,Where is your showroom,DISTRIBUTORS,LEAD_GEN,8.0
+180,Demo store,DISTRIBUTORS,LEAD_GEN,6.0
+190,Store in,DISTRIBUTORS,LEAD_GEN,4.0
+203,Custom size cost,MATTRESS_COST,SIZE_CUSTOMIZATION,8.0
+225,What are the SOF mattress products,PRODUCT_VARIANTS,ABOUT_SOF_MATTRESS,9.0
+227,Which product is best,PRODUCT_VARIANTS,COMPARISON,8.0
+228, Which mattress is best,PRODUCT_VARIANTS,ABOUT_SOF_MATTRESS,7.0
+229,I want to buy a mattress,PRODUCT_VARIANTS,LEAD_GEN,8.0
+232,Type of foam used,PRODUCT_VARIANTS,ORTHO_FEATURES,7.0
+234,Mattress Features,PRODUCT_VARIANTS,ORTHO_FEATURES,8.0
+235,I am looking the mattress,PRODUCT_VARIANTS,ABOUT_SOF_MATTRESS,8.0
+238,What are the mattress features,PRODUCT_VARIANTS,ORTHO_FEATURES,8.0
+240,Tell me about SOF mattress features,PRODUCT_VARIANTS,ORTHO_FEATURES,8.0
+252,It's been a month,DELAY_IN_DELIVERY,ORDER_STATUS,6.0
+254,I did not receive my order yet,DELAY_IN_DELIVERY,ORDER_STATUS,8.0
+257,Almost 1 month over,DELAY_IN_DELIVERY,ORDER_STATUS,7.0
+258, It's been 30 days my product haven't received,DELAY_IN_DELIVERY,DELIVERY_INQUIRY,4.0
+260,It's already one month,DELAY_IN_DELIVERY,ORDER_STATUS,7.0
+283,When can we expect,ORDER_STATUS,LEAD_GEN,6.0

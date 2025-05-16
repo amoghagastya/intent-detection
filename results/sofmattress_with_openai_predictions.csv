@@ -1,0 +1,329 @@
+sentence,label,OpenAi_Prediction,Confidence
+You guys provide EMI option?,EMI,EMI,9.0
+Do you offer Zero Percent EMI payment options?,EMI,EMI,9.0
+0% EMI.,EMI,EMI,8.0
+EMI,EMI,EMI,9.0
+I want in installment,EMI,EMI,8.0
+I want it on 0% interest,EMI,EMI,8.0
+How to get in EMI,EMI,EMI,9.0
+what about emi options,EMI,EMI,8.0
+I need emi payment. ,EMI,EMI,8.0
+How to EMI,EMI,EMI,9.0
+I want to buy on EMI,EMI,EMI,9.0
+I want to buy this in installments,EMI,EMI,9.0
+0% Emi,EMI,EMI,8.0
+Down payments,EMI,EMI,5.0
+Installments,EMI,EMI,9.0
+How about Paisa finance,EMI,EMI,8.5
+Paisa finance service available,EMI,EMI,8.0
+What is minimum down payment,EMI,EMI,8.0
+Paisa Finance is available,EMI,LEAD_GEN,6.0
+Do you accept Paisa EMI card,EMI,EMI,8.0
+Can we buy through Paisa finance,EMI,EMI,8.0
+EMI Option,EMI,EMI,9.0
+Paisa Finance,EMI,LEAD_GEN,6.0
+No cost EMI is available?,EMI,EMI,8.0
+Is EMI available,EMI,EMI,8.0
+COD option is availble?,COD,COD,8.0
+Do you offer COD to my pincode?,COD,CHECK_PINCODE,8.0
+Can I do COD?,COD,COD,8.0
+COD,COD,COD,10.0
+Is it possible to COD,COD,COD,8.0
+Cash on delivery is acceptable?,COD,COD,9.0
+Can pay later on delivery ,COD,COD,8.0
+DO you have COD option,COD,COD,9.0
+Can it deliver by COD,COD,COD,8.0
+Is COD option available,COD,COD,9.0
+Can I get COD option?,COD,COD,8.0
+Cash on delivery is available,COD,COD,9.0
+Features of Ortho mattress,ORTHO_FEATURES,ORTHO_FEATURES,8.0
+What are the key features of the SOF Ortho mattress,ORTHO_FEATURES,ORTHO_FEATURES,9.0
+SOF ortho,ORTHO_FEATURES,ORTHO_FEATURES,8.0
+Ortho mattress,ORTHO_FEATURES,ORTHO_FEATURES,8.0
+Ortho features,ORTHO_FEATURES,ORTHO_FEATURES,8.0
+ortho,ORTHO_FEATURES,ORTHO_FEATURES,7.0
+Tell me about SOF Ortho mattress,ORTHO_FEATURES,ORTHO_FEATURES,8.0
+Have a back problem,ORTHO_FEATURES,ORTHO_FEATURES,8.0
+I have back pain issue,ORTHO_FEATURES,ORTHO_FEATURES,7.0
+Back Pain,ORTHO_FEATURES,ORTHO_FEATURES,7.0
+Is it orthopaedic,ORTHO_FEATURES,ORTHO_FEATURES,8.0
+Neck pain and back pain,ORTHO_FEATURES,ORTHO_FEATURES,7.0
+back ache issue,ORTHO_FEATURES,ORTHO_FEATURES,7.0
+I m looking mattress for slip disc problem,ORTHO_FEATURES,ORTHO_FEATURES,8.0
+Do we have anything for backache,ORTHO_FEATURES,ORTHO_FEATURES,8.0
+I am cervical and Lombard section problem,ORTHO_FEATURES,ORTHO_FEATURES,7.0
+Is there orthopedic mattress available,ORTHO_FEATURES,ORTHO_FEATURES,8.0
+What are the key features of the SOF Ergo mattress,ERGO_FEATURES,ORTHO_FEATURES,8.0
+Features of Ergo mattress,ERGO_FEATURES,ORTHO_FEATURES,8.0
+SOF ergo,ERGO_FEATURES,ERGO_FEATURES,8.0
+Ergo mattress,ERGO_FEATURES,ORTHO_FEATURES,8.0
+Ergo features,ERGO_FEATURES,ERGO_FEATURES,8.0
+Ergo,ERGO_FEATURES,ORTHO_FEATURES,6.0
+Tell me about SOF Ergo mattress,ERGO_FEATURES,ABOUT_SOF_MATTRESS,9.0
+What about ergo,ERGO_FEATURES,ORTHO_FEATURES,8.0
+What is responsive foam,ERGO_FEATURES,ORTHO_FEATURES,7.0
+SOF ergo features,ERGO_FEATURES,ERGO_FEATURES,8.0
+Does this have ergonomic support?,ERGO_FEATURES,ORTHO_FEATURES,8.0
+What is the difference between the Ergo & Ortho variants,COMPARISON,COMPARISON,8.0
+Difference between Ergo & Ortho Mattress,COMPARISON,COMPARISON,8.0
+Difference between the products,COMPARISON,COMPARISON,8.0
+Compare the 2 mattresses,COMPARISON,COMPARISON,9.0
+Product comparison,COMPARISON,COMPARISON,9.0
+ Comparison,COMPARISON,COMPARISON,9.0
+Which mattress to buy?,COMPARISON,WHAT_SIZE_TO_ORDER,8.0
+Is the mattress good for my back,COMPARISON,ORTHO_FEATURES,8.0
+Mattress comparison,COMPARISON,COMPARISON,9.0
+Compare ergo & ortho variants,COMPARISON,COMPARISON,8.0
+I wanna know the difference,COMPARISON,COMPARISON,8.0
+What is the warranty period?,WARRANTY,WARRANTY,8.0
+Warranty,WARRANTY,WARRANTY,9.0
+Does mattress cover is included in warranty,WARRANTY,WARRANTY,9.0
+How long is the warranty you offer on your mattresses and what does it cover,WARRANTY,WARRANTY,8.0
+Do you offer warranty ,WARRANTY,WARRANTY,8.0
+Tell me about the product warranty,WARRANTY,WARRANTY,9.0
+Share warranty information,WARRANTY,WARRANTY,8.0
+Need to know the warranty details,WARRANTY,WARRANTY,9.0
+Want to know about warranty,WARRANTY,WARRANTY,9.0
+would interested in warranty details,WARRANTY,WARRANTY,8.0
+How does the 100 night trial work,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,9.0
+What is the 100-night offer,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,9.0
+Trial details,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,7.0
+How to enroll for trial,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,8.0
+100 night trial,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,9.0
+Is the 100 night return trial applicable for custom size as well,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,8.0
+100 night,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,8.0
+Trial offer on customisation,100_NIGHT_TRIAL_OFFER,100_NIGHT_PLANT_TRIAL_OFFER,8.0
+do you provide exchange,100_NIGHT_TRIAL_OFFER,RETURN_EXCHANGE,8.0
+Can I try a mattress first,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,8.0
+I want to check offers,100_NIGHT_TRIAL_OFFER,OFFERS,9.0
+What is 100 Night trial offer,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,9.0
+Need 100 days trial,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,9.0
+100 days trial,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,9.0
+Can I get free trial,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,8.0
+100 Nights trial version,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,9.0
+ Can you give me 100 night trial ,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,8.0
+100 free Nights,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,9.0
+I want to change the size of the mattress.,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,8.0
+Need some help in changing size of the mattress,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,8.0
+How can I order a custom sized mattress,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,8.0
+Custom size,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,8.0
+Customise size ,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,9.0
+Customisation is possible?,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,8.0
+Will I get an option to Customise the size,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,8.0
+Can mattress size be customised?,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,8.0
+Mattress size change,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,8.0
+Can you help with the size?,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,8.0
+How do I know what size to order?,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,8.0
+How do I know the size of my bed?,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,8.0
+Inches,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,6.0
+Length,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,4.0
+Feet,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,6.0
+6*3,WHAT_SIZE_TO_ORDER,LEAD_GEN,2.0
+Help me with the size chart,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,8.0
+What are the available sizes?,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,8.0
+Can I please have the size chart?,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,8.0
+Share the size structure,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,8.0
+What are the sizes available?,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,8.0
+Want to know the custom size chart,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,8.0
+Mattress size,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,8.0
+ What size to order?,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,9.0
+Show me all available sizes,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,8.0
+What are the sizes,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,8.0
+What are the available mattress sizes,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,8.0
+King Size,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,6.0
+Inches,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,4.0
+Get in Touch,LEAD_GEN,LEAD_GEN,6.0
+Want to talk to an live agent,LEAD_GEN,LEAD_GEN,7.0
+ Please call me,LEAD_GEN,LEAD_GEN,8.0
+Do you have Live agent,LEAD_GEN,LEAD_GEN,6.0
+Want to get in touch,LEAD_GEN,LEAD_GEN,8.0
+ Schedule a callback ,LEAD_GEN,LEAD_GEN,7.0
+ Arrange a call back ,LEAD_GEN,LEAD_GEN,8.0
+How to get in touch?,LEAD_GEN,LEAD_GEN,8.0
+Interested in buying,LEAD_GEN,LEAD_GEN,6.0
+I want to buy this,LEAD_GEN,LEAD_GEN,6.0
+How to buy?,LEAD_GEN,LEAD_GEN,8.0
+How to order,LEAD_GEN,LEAD_GEN,8.0
+I want to order,LEAD_GEN,LEAD_GEN,8.0
+Connect to an agent,LEAD_GEN,LEAD_GEN,3.0
+Get In Touch,LEAD_GEN,LEAD_GEN,7.0
+I want a call back,LEAD_GEN,LEAD_GEN,8.0
+I need a call back,LEAD_GEN,LEAD_GEN,7.0
+Please call me back,LEAD_GEN,LEAD_GEN,4.0
+Call me now,LEAD_GEN,LEAD_GEN,4.0
+I want to buy,LEAD_GEN,LEAD_GEN,8.0
+Need a call from your representative,LEAD_GEN,LEAD_GEN,8.0
+Do you deliver to my pincode,CHECK_PINCODE,CHECK_PINCODE,9.0
+Check pincode,CHECK_PINCODE,CHECK_PINCODE,8.0
+Is delivery possible on this pincode,CHECK_PINCODE,CHECK_PINCODE,9.0
+Will you be able to deliver here,CHECK_PINCODE,DELAY_IN_DELIVERY,8.0
+Can you make delivery on this pin code?,CHECK_PINCODE,CHECK_PINCODE,9.0
+Can you deliver on my pincode,CHECK_PINCODE,CHECK_PINCODE,8.0
+Do you deliver to,CHECK_PINCODE,CHECK_PINCODE,8.0
+Can you please deliver on my pincode,CHECK_PINCODE,CHECK_PINCODE,9.0
+Need a delivery on this pincode,CHECK_PINCODE,CHECK_PINCODE,8.0
+Can I get delivery on this pincode,CHECK_PINCODE,CHECK_PINCODE,8.0
+Do you have any showrooms in Delhi state,DISTRIBUTORS,DISTRIBUTORS,8.0
+Do you have any distributors in Mumbai city,DISTRIBUTORS,DISTRIBUTORS,8.0
+Do you have any retailers in Pune city,DISTRIBUTORS,DISTRIBUTORS,8.0
+ Where can I see the product before I buy,DISTRIBUTORS,LEAD_GEN,8.0
+What is the price for size (x ft x y ft)? What is the price for size (x inches x y inches)?,DISTRIBUTORS,MATTRESS_COST,9.0
+Distributors ,DISTRIBUTORS,DISTRIBUTORS,10.0
+Distributors/Retailers/Showrooms,DISTRIBUTORS,DISTRIBUTORS,8.0
+Where is your showroom,DISTRIBUTORS,LEAD_GEN,8.0
+Do you have a showroom,DISTRIBUTORS,DISTRIBUTORS,6.0
+Can I visit SOF mattress showroom,DISTRIBUTORS,LEAD_GEN,8.0
+Where is your showroom,DISTRIBUTORS,LEAD_GEN,8.0
+Nearby Show room,DISTRIBUTORS,DISTRIBUTORS,7.0
+Do you have Showroom,DISTRIBUTORS,DISTRIBUTORS,8.0
+Need store,DISTRIBUTORS,DISTRIBUTORS,7.0
+Need Nearby Store,DISTRIBUTORS,DISTRIBUTORS,8.0
+Nearest shop,DISTRIBUTORS,DISTRIBUTORS,7.0
+Demo store,DISTRIBUTORS,LEAD_GEN,6.0
+Is there any offline stores ,DISTRIBUTORS,DISTRIBUTORS,6.0
+Head office,DISTRIBUTORS,DISTRIBUTORS,4.0
+Shops nearby,DISTRIBUTORS,DISTRIBUTORS,8.0
+Where was this shop,DISTRIBUTORS,DISTRIBUTORS,6.0
+Offline stores,DISTRIBUTORS,DISTRIBUTORS,6.0
+Do you have store,DISTRIBUTORS,DISTRIBUTORS,7.0
+Where is the shop ,DISTRIBUTORS,DISTRIBUTORS,4.0
+Is it available in shops,DISTRIBUTORS,DISTRIBUTORS,8.0
+You have any branch,DISTRIBUTORS,DISTRIBUTORS,8.0
+Store in,DISTRIBUTORS,LEAD_GEN,4.0
+We want dealer ship,DISTRIBUTORS,DISTRIBUTORS,8.0
+Any shop that I can visit,DISTRIBUTORS,DISTRIBUTORS,6.0
+Dealership,DISTRIBUTORS,DISTRIBUTORS,8.0
+Shop near by,DISTRIBUTORS,DISTRIBUTORS,3.0
+Need dealership,DISTRIBUTORS,DISTRIBUTORS,8.0
+Outlet,DISTRIBUTORS,DISTRIBUTORS,6.0
+Store near me,DISTRIBUTORS,DISTRIBUTORS,5.0
+Price of mattress,MATTRESS_COST,MATTRESS_COST,8.0
+Mattress cost,MATTRESS_COST,MATTRESS_COST,8.0
+Cost of mattress,MATTRESS_COST,MATTRESS_COST,8.0
+How much does a SOF mattress cost,MATTRESS_COST,MATTRESS_COST,8.0
+Cost,MATTRESS_COST,MATTRESS_COST,8.0
+Custom size cost,MATTRESS_COST,SIZE_CUSTOMIZATION,8.0
+What does the mattress cost,MATTRESS_COST,MATTRESS_COST,9.0
+I need price,MATTRESS_COST,MATTRESS_COST,8.0
+Price Range,MATTRESS_COST,MATTRESS_COST,8.0
+Mattress price,MATTRESS_COST,MATTRESS_COST,8.0
+Price of Mattress,MATTRESS_COST,MATTRESS_COST,8.0
+Want to know the price,MATTRESS_COST,MATTRESS_COST,8.0
+How Much Cost,MATTRESS_COST,MATTRESS_COST,8.0
+Price,MATTRESS_COST,MATTRESS_COST,7.0
+Rate,MATTRESS_COST,MATTRESS_COST,4.0
+MRP,MATTRESS_COST,MATTRESS_COST,8.0
+Low price,MATTRESS_COST,MATTRESS_COST,6.0
+What will be the price,MATTRESS_COST,MATTRESS_COST,8.0
+Cost of Bed,MATTRESS_COST,MATTRESS_COST,8.0
+Cost of Mattress,MATTRESS_COST,MATTRESS_COST,8.0
+Mattress cost,MATTRESS_COST,MATTRESS_COST,8.0
+What is the cost,MATTRESS_COST,MATTRESS_COST,8.0
+What are the product variants,PRODUCT_VARIANTS,PRODUCT_VARIANTS,9.0
+Product Variants,PRODUCT_VARIANTS,PRODUCT_VARIANTS,9.0
+Help me with different products,PRODUCT_VARIANTS,PRODUCT_VARIANTS,6.0
+What are the mattress variants,PRODUCT_VARIANTS,PRODUCT_VARIANTS,8.0
+I want to check products,PRODUCT_VARIANTS,PRODUCT_VARIANTS,7.0
+What are the SOF mattress products,PRODUCT_VARIANTS,ABOUT_SOF_MATTRESS,9.0
+Show me products,PRODUCT_VARIANTS,PRODUCT_VARIANTS,7.0
+Which product is best,PRODUCT_VARIANTS,COMPARISON,8.0
+ Which mattress is best,PRODUCT_VARIANTS,ABOUT_SOF_MATTRESS,7.0
+I want to buy a mattress,PRODUCT_VARIANTS,LEAD_GEN,8.0
+Products,PRODUCT_VARIANTS,PRODUCT_VARIANTS,4.0
+View products,PRODUCT_VARIANTS,PRODUCT_VARIANTS,6.0
+Type of foam used,PRODUCT_VARIANTS,ORTHO_FEATURES,7.0
+Mattress variants,PRODUCT_VARIANTS,PRODUCT_VARIANTS,8.0
+Mattress Features,PRODUCT_VARIANTS,ORTHO_FEATURES,8.0
+I am looking the mattress,PRODUCT_VARIANTS,ABOUT_SOF_MATTRESS,8.0
+Type of mattress,PRODUCT_VARIANTS,PRODUCT_VARIANTS,8.0
+Show more mattress,PRODUCT_VARIANTS,PRODUCT_VARIANTS,8.0
+What are the mattress features,PRODUCT_VARIANTS,ORTHO_FEATURES,8.0
+What are your products,PRODUCT_VARIANTS,PRODUCT_VARIANTS,8.0
+Tell me about SOF mattress features,PRODUCT_VARIANTS,ORTHO_FEATURES,8.0
+How is SOF different from other mattress brands,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,8.0
+Why SOF mattress,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,8.0
+About SOF Mattress,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,8.0
+What is SOF mattress,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,8.0
+Tell me about SOF mattresses,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,9.0
+Who are SOF mattress,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,8.0
+What is SOF,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,8.0
+How is SOF mattress different from,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,8.0
+Tell me about SOF Mattress,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,8.0
+Tell me about company,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,6.0
+ Who is SOF mattress,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,8.0
+It's been a month,DELAY_IN_DELIVERY,ORDER_STATUS,6.0
+Why so long?,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,6.0
+I did not receive my order yet,DELAY_IN_DELIVERY,ORDER_STATUS,8.0
+Why so many days,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,7.0
+It's delayed,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,8.0
+Almost 1 month over,DELAY_IN_DELIVERY,ORDER_STATUS,7.0
+ It's been 30 days my product haven't received,DELAY_IN_DELIVERY,DELIVERY_INQUIRY,4.0
+It's been so many days,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,6.0
+It's already one month,DELAY_IN_DELIVERY,ORDER_STATUS,7.0
+Delivery is delayed,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,8.0
+It's too late to get delivered,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,8.0
+Order Status,ORDER_STATUS,ORDER_STATUS,8.0
+What is my order status?,ORDER_STATUS,ORDER_STATUS,9.0
+Order related,ORDER_STATUS,ORDER_STATUS,8.0
+Status of my order,ORDER_STATUS,ORDER_STATUS,8.0
+What about my order,ORDER_STATUS,ORDER_STATUS,7.0
+My order Number,ORDER_STATUS,ORDER_STATUS,8.0
+Where is my order,ORDER_STATUS,ORDER_STATUS,9.0
+Order #,ORDER_STATUS,ORDER_STATUS,8.0
+Track order,ORDER_STATUS,ORDER_STATUS,8.0
+I want updates of my order,ORDER_STATUS,ORDER_STATUS,8.0
+ I need my order status,ORDER_STATUS,ORDER_STATUS,9.0
+Status of my order,ORDER_STATUS,ORDER_STATUS,9.0
+State of this order,ORDER_STATUS,ORDER_STATUS,8.0
+Order status,ORDER_STATUS,ORDER_STATUS,9.0
+Present status,ORDER_STATUS,ORDER_STATUS,7.0
+What is the status?,ORDER_STATUS,ORDER_STATUS,8.0
+Current state of my order,ORDER_STATUS,ORDER_STATUS,8.0
+What is the order status?,ORDER_STATUS,ORDER_STATUS,9.0
+Where is my product,ORDER_STATUS,ORDER_STATUS,8.0
+When will the order be delivered to me?,ORDER_STATUS,ORDER_STATUS,8.0
+When can we expect,ORDER_STATUS,LEAD_GEN,6.0
+Need my money back,RETURN_EXCHANGE,RETURN_EXCHANGE,8.0
+I want refund,RETURN_EXCHANGE,RETURN_EXCHANGE,8.0
+Refund,RETURN_EXCHANGE,RETURN_EXCHANGE,7.0
+Not happy with the product please help me to return,RETURN_EXCHANGE,RETURN_EXCHANGE,9.0
+Help me with exchange process,RETURN_EXCHANGE,RETURN_EXCHANGE,8.0
+How do I return it,RETURN_EXCHANGE,RETURN_EXCHANGE,9.0
+I want to return my mattress,RETURN_EXCHANGE,RETURN_EXCHANGE,9.0
+Exchange,RETURN_EXCHANGE,RETURN_EXCHANGE,8.0
+Looking to exchange,RETURN_EXCHANGE,RETURN_EXCHANGE,8.0
+How can I replace the mattress.,RETURN_EXCHANGE,RETURN_EXCHANGE,8.0
+How do I return It,RETURN_EXCHANGE,RETURN_EXCHANGE,8.0
+Return,RETURN_EXCHANGE,RETURN_EXCHANGE,8.0
+Return my product,RETURN_EXCHANGE,RETURN_EXCHANGE,8.0
+Replacement policy,RETURN_EXCHANGE,RETURN_EXCHANGE,8.0
+I want to cancel my order,CANCEL_ORDER,CANCEL_ORDER,9.0
+How can I cancel my order,CANCEL_ORDER,CANCEL_ORDER,8.0
+Cancel order,CANCEL_ORDER,CANCEL_ORDER,8.0
+Cancellation status,CANCEL_ORDER,CANCEL_ORDER,8.0
+I want cancel my order,CANCEL_ORDER,CANCEL_ORDER,8.0
+Cancel the order,CANCEL_ORDER,CANCEL_ORDER,9.0
+Cancel my order,CANCEL_ORDER,CANCEL_ORDER,9.0
+Need to cancel my order,CANCEL_ORDER,CANCEL_ORDER,9.0
+Process of cancelling order,CANCEL_ORDER,CANCEL_ORDER,9.0
+Can I cancel my order here,CANCEL_ORDER,CANCEL_ORDER,8.0
+Can I get pillows?,PILLOWS,PILLOWS,8.0
+Do you sell pillows?,PILLOWS,PILLOWS,8.0
+Pillows,PILLOWS,PILLOWS,9.0
+I want to buy pillows,PILLOWS,PILLOWS,8.0
+Are Pillows available,PILLOWS,PILLOWS,9.0
+Need pair of Pillows,PILLOWS,PILLOWS,9.0
+Can I buy pillows from here,PILLOWS,PILLOWS,8.0
+Do you have cushions,PILLOWS,PILLOWS,8.0
+Can I also have pillows,PILLOWS,PILLOWS,9.0
+Is pillows available,PILLOWS,PILLOWS,9.0
+Offers,OFFERS,OFFERS,8.0
+What are the available offers,OFFERS,OFFERS,9.0
+Give me some discount,OFFERS,OFFERS,8.0
+Any discounts,OFFERS,OFFERS,8.0
+Discount,OFFERS,OFFERS,8.0
+May I please know about the offers,OFFERS,OFFERS,9.0
+Available offers,OFFERS,OFFERS,9.0
+Is offer available,OFFERS,OFFERS,8.0
+Want to know the discount ,OFFERS,OFFERS,8.0
+Tell me about the latest offers,OFFERS,OFFERS,9.0
